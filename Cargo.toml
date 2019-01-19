@@ -1,0 +1,10 @@
+[package]
+name = "stream-countdown"
+version = "0.1.0"
+authors = ["David Pedersen <david.pdrsn@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+structopt = "0.2.14"
+ansi-escapes = "0.1.0"
+ctrlc = "3.1.1"
