@@ -10,8 +10,12 @@ use structopt::StructOpt;
 struct Opt {
     /// Number of minutes until the stream starts
     min: u64,
+
+    /// Your Twitter handle
     #[structopt(short = "t", long = "twitter")]
     twitter: Option<String>,
+
+    /// Your GitHub handle
     #[structopt(short = "g", long = "github")]
     github: Option<String>,
 }
