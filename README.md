@@ -1,5 +1,7 @@
 # Stream countdown
 
+![image](https://davidpdrsn.s3.amazonaws.com/Screenshot%202019-01-20%20at%2000.34.21.png)
+
 # Installation
 
 1. Install Rust
